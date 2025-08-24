@@ -1,1 +1,76 @@
+# =========================
+# Python
+# =========================
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
 
+# Distribution / packaging
+*.egg
+*.egg-info/
+.eggs/
+build/
+develop-eggs/
+dist/
+downloads/
+wheels/
+*.manifest
+*.spec
+
+# Virtual environments
+venv/
+.env/
+.venv/
+ENV/
+env/
+env.bak/
+venv.bak/
+
+# PyInstaller
+*.manifest
+*.spec
+
+# Logs / debugging
+*.log
+*.pot
+*.pyc
+*.pyo
+*.pyd
+*.tmp
+*.temp
+*.coverage
+.coverage.*
+.cache
+nosetests.xml
+coverage.xml
+*.cover
+.hypothesis/
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# IDE / Editor files
+.DS_Store
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Credentials / Security
+.git-credentials
+*.pem
+*.key
+*.crt
+*.der
+
+# Test / CI
+.tox/
+.pytest_cache/
+.pyre/
+.mypy_cache/
+.pytype/
+
+# Others
+Thumbs.db
